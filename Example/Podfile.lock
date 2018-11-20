@@ -1,0 +1,16 @@
+PODS:
+  - YSTestKit (0.1.0)
+
+DEPENDENCIES:
+  - YSTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  YSTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YSTestKit: 1261e9177573044f28d277f56ca453861f68eb3f
+
+PODFILE CHECKSUM: cbe4ef4d50f85f7caa0614701f2fc104d3b0829c
+
+COCOAPODS: 1.5.3

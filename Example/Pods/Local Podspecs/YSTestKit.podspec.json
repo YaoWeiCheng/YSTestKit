@@ -1,0 +1,22 @@
+{
+  "name": "YSTestKit",
+  "version": "0.1.0",
+  "summary": "A short description of YSTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yaowei/YSTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yaowei": "cyw@yn-ce.com"
+  },
+  "source": {
+    "git": "https://github.com/yaowei/YSTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YSTestKit/Classes/**/*"
+}
